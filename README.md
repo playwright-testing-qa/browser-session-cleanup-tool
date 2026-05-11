@@ -1,2 +1,29 @@
-# browser-session-cleanup-tool
-Lightweight browser session cleanup utility for Chrome and Edge to help resolve stale login, token, and session-related issues.
+# Browser Session Cleanup Tool
+
+Lightweight browser cleanup utility for Chrome and Edge.
+
+Designed to help resolve:
+- stale login/session state
+- expired token issues
+- browser cache/session problems
+
+The tool clears:
+- Cache
+- Cookies
+- Session Storage
+- Local Storage
+- IndexedDB
+- Service Worker cache
+
+The tool is intended NOT to delete:
+- Saved passwords
+- Bookmarks
+- Browser profiles
+- Extensions
+
+## Platforms
+- Windows (.bat)
+- Mac (.command)
+
+## Important
+Do not run during an active call or encounter.
