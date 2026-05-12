@@ -25,5 +25,3 @@ The tool is intended NOT to delete:
 - Windows (.bat)
 - Mac (.command)
 
-## Important
-Do not run during an active call or encounter.
